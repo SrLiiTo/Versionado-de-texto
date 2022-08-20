@@ -1,1 +1,2 @@
 Quiero crear un juego en java de ajedrez
+Pero tambien quiero que sea en html
